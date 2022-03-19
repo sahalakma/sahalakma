@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahalakma" alt="sahalakma" /></a> </p>
 
-- 🔭 I’m currently studying **Self Learning**
+- 🔭 I’m currently  **Self Learning**
 
 - 🌱 I’m currently learning **React Js, Redux**
 
