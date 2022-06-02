@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently  **Self Learning**
 
-- 🌱 I’m currently learning **React Js, Redux**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **JS**
 
